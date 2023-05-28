@@ -9,12 +9,17 @@ ol li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
-    line-height:200%
+    line-height: 200%;
+    text-align: center;
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px outset #00ff90;
 }
 footer {
     padding-top: 3px;
     padding-bottom: 3px;
-    padding-left:  30px;
+    padding-left: 30px;
     background: #444;
     color: white;
 }
